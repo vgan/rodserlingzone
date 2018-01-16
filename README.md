@@ -1,5 +1,5 @@
 # rodserlingzone
-A python and ImageMagick based bot which generates fake Twilight Zone Intros. Inspired by Tumblr posts by [Sean Tejaratchi](http://liartownusa.tumblr.com/). Currently posts to Twitter, Tumblr and Mastodon every 8 hours
+A python and ImageMagick based bot which generates fake Twilight Zone Intros. Inspired by Tumblr posts by [Sean Tejaratchi](http://liartownusa.tumblr.com/). Currently posts to Twitter, Tumblr and Mastodon every 8 hours.
 
 ## Example
 ![Example](rodserlingzone.jpg)
