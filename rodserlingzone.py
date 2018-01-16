@@ -280,10 +280,10 @@ def doTheDamnThing(template_id):
 	makeImage(blank,text)
 	if (os.path.isfile(image) and os.path.isfile(image)):
         	imageObj = open(image)
-             	#sendToInterwebs(image,imageObj,text)
-                #os.remove(image)
+             	sendToInterwebs(image,imageObj,text)
+                os.remove(image)
 	else:
         	print "no image :("
 
-#testTheDamnThing("random") # pass in the number if you want to test a certain template
-doTheDamnThing("random")
+testTheDamnThing("random") # pass in the number if you want to test a certain template
+#doTheDamnThing("random")
